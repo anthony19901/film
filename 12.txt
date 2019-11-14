@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+
+
+-edge-chat.facebook.
+/edge-chat.facebook.
